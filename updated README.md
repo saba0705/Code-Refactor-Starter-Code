@@ -24,7 +24,7 @@ Semantic HTML: Using HTML elements that convey structure to both the browser and
 Web Accessibility Standards: Ensuring that websites and web applications are designed and developed to be accessible to all users, including those with disabilities, by following established accessibility guidelines such as WCAG (Web Content Accessibility Guidelines).
 
 To address the challenge requirements, the following steps were taken:
-Semantic HTML: Updated HTML elements to use semantic tags such as <header>, <nav>, <main>, <section>, and <footer>, to better define the structure and purpose of different sections of the webpage.
+Semantic HTML: Updated HTML elements to use semantic tags such as <header>,<nav>,<main>,<section>, and <footer>, to better define the structure and purpose of different sections of the webpage.
 Ensured that all HTML elements have appropriate attributes, such as alt attributes for images.
 Reviewed and updated the content and structure of the webpage to improve search engine visibility and ranking, including the use of descriptive and relevant <title> and <meta> tags.
 By implementing these solutions, the Horiseon Marketing Agency website now meets accessibility standards, resulting in improved user experience and enhanced search engine optimization.
