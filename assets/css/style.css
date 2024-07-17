@@ -6,11 +6,11 @@
 
 body {
     background-color: #d9dcd6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -24,21 +24,16 @@ body {
     color: #d9dcd6;
 }
 
-/* Styling for nav menu*/
 .header nav {
     padding-top: 15px;
-    margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-/*Styling for list within the nav menu*/
 .header nav ul {
     list-style-type: none;
 }
 
-/*Styling for list items */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -53,14 +48,12 @@ p {
     font-size: 16px;
 }
 
-/*Styling for main image*/
-.meetingmainimage img{
-    height: 800px;
+.meetingMainImage img {
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
 }
 
-/*Stlying for main content*/
 .mainContent {
     width: 75%;
     display: inline-block;
@@ -77,26 +70,21 @@ p {
     margin-left: 25px;
 }
 
-/*stlying for search-engine-optimization, online-reputation management, social-media-marketing sections*/
 #search-engine-optimization,
 #online-reputation-management,
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: color #0072bb;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
-/*styling for search-engine-optimization, online-reputation management, social-media-marketing images section*/
 #search-engine-optimization img,
 #online-reputation-management img,
 #social-media-marketing img {
     max-height: 200px;
 }
 
-/*styling for h2 heading elements for search-engine-optimization, online-reputation management, social-media-marketing sections */
 #search-engine-optimization h2,
 #online-reputation-management h2,
 #social-media-marketing h2 {
@@ -104,28 +92,22 @@ p {
     font-size: 36px;
 }
 
-
-/*styling for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
 
-/*styling for individual benefits*/
 #benefit-lead,
 #benefit-brand,
 #benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
-/*styling for headings within the benefit section*/
 #benefit-lead h3,
 #benefit-brand h3,
 #benefit-cost h3 {
@@ -133,7 +115,6 @@ p {
     text-align: center;
 }
 
-/*styling for benefit images section */
 #benefit-lead img,
 #benefit-brand img,
 #benefit-cost img {
@@ -145,10 +126,5 @@ p {
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h4 {
-    font-size: 20px;
 }
